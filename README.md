@@ -6,5 +6,5 @@ This project is simple yet effective for learning Python fundamentals such as fu
 * **user input validation:** ensures that the entered salaries and bonus are integers
 * **interactive interface:** prompts the user to input salaries and a bonus dynamically
 * **file export:** save the updated salaries to a .txt file
-
+* **error handling:** provides clear feedback for invalid inputs
 
